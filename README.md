@@ -1,11 +1,6 @@
 # 【Sing-box 全家桶】
 
-* * *
 
-
-
-
-* * *
 ## 1.更新信息
 2025.04.25 v1.2.17 1. Added the ability to change CDNs online using [sb -d]; 2. Change GitHub proxy; 3. Optimize code; 1. 新增使用 [sb -d] 在线更换 CDN 功能; 2. 更改 GitHub 代理; 3. 优化代码
 
